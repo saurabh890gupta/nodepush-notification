@@ -1,0 +1,23 @@
+{
+  "name": "node_push_notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.3.12",
+    "nodemailer": "^4.6.8",
+    "path": "^0.12.7",
+    "web-push": "^3.3.3"
+  }
+}
